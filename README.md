@@ -19,7 +19,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesar-paredes&" alt="cesar-paredes" /></p>
 <br/>
 
-💻 Projects
+
+<h3 align="left">💻 Projects</h3>
 - I already obtained a host service and soon I'll push some of my projects there to be displayed live as a website.
 - In the meantime please check my project below! 😀
 
