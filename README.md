@@ -16,7 +16,7 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesar-paredes&show_icons=true&locale=en&layout=compact" alt="cesar-paredes" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesar-paredes&" alt="cesar-paredes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesar-paredes&;theme=tokyonight" alt="cesar-paredes" /></p>
 
 
 
