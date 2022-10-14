@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Cesar-Paredes</h1>
 <h3 align="center">Passionate about programming and web development. 🧑🏻‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cesar-paredes&label=Profile%20views&color=0e75b6&style=flat" alt="cesar-paredes" /> </p>
 
 - 👀 I’m interested in learning anything and everything that would make me a better developer.<br/>
 - 🌱 I’m currently learning and improving my skills in **Java, PHP, C#, SQL, Web services, server-side programming and also front-end development**, since my main long term goal is to be able to do full stack development.<br/>
