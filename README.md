@@ -8,7 +8,7 @@
 <br/>
 
 ++++++++++++++++++++++++++++++++
-<h3 align="left">Take a look at one of my live projects!</h3>                                                       
+<h3 align="left"> 🚀Take a look at one of my live projects! 🚀</h3>                                                       
 <p align="left">                                                                                                    
 <a href="http://138.197.150.253:8080/RealEstateREST/RealEstateForm.jsp" target="_blank">Real Estate Calculator</a>  
 <br/>                                                                                                                
