@@ -6,6 +6,10 @@
 
 - 💞️ I’m looking to collaborate mainly on back-end and as an alternative I'm also open for front-end development
 
+📚 Language and Tools
+
+
+
 <!---
 Cesar-Paredes/Cesar-Paredes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
