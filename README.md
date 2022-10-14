@@ -6,7 +6,8 @@
 - 🌱 I’m currently improving my skills in **Java, PHP, C#, SQL, Web services, server-side programming and also front-end development**, since my main long term goal is to be able to do full stack development.<br/>
 - 💞️ I’m looking to collaborate mainly on back-end and as an alternative I'm also open for front-end development<br/>
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">![image](https://user-images.githubusercontent.com/35407350/195766190-27e664bb-0c05-4835-86b0-4124b69d6cb1.png)
+ Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cesarparedes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesarparedes1" height="30" width="40" /></a>
 </p>
