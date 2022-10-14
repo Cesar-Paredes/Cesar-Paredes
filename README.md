@@ -7,11 +7,13 @@
 - 💞️ I’m looking to collaborate mainly on back-end and as an alternative I'm also open for front-end development.<br/>
 <br/>
 
-<h3 align="left">Take a look at one of my live projects!</h3>
-<p align="left">
-<a href="http://138.197.150.253:8080/RealEstateREST/RealEstateForm.jsp" target="_blank">Real Estate Calculator</a>
-<br/>
-<br/>
+++++++++++++++++++++++++++++++++
+<h3 align="left">Take a look at one of my live projects!</h3>                                                       
+<p align="left">                                                                                                    
+<a href="http://138.197.150.253:8080/RealEstateREST/RealEstateForm.jsp" target="_blank">Real Estate Calculator</a>  
+<br/>                                                                                                                
+++++++++++++++++++++++++++++++++
+<br/>                                                                                                               
 
 <h3 align="left">💬 Connect with me:</h3>
 <p align="left">
