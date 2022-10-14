@@ -21,7 +21,7 @@
 
 
 <h3 align="left">💻 Projects</h3>
-- I already obtained a host service and soon I'll push some of my projects there to be displayed live as a website.
+- I already obtained a host service and soon I'll push some of my projects there to be displayed live as a website.<br/>
 - In the meantime please check my project below! 😀
 
 
