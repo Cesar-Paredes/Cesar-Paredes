@@ -6,9 +6,15 @@
 - 🌱 I’m currently improving my skills in **Java, PHP, C#, SQL, Web services, server-side programming and also front-end**, since my main long term goal is to be able to do full stack development.<br/>
 - 💞️ I’m looking to collaborate mainly on back-end and as an alternative I'm also open for front-end development.<br/>
 <br/>
+
+<h3 align="left">Take a look at one of my live projects</h3>
+<p align="left">
+<a href="http://138.197.150.253:8080/RealEstateREST/RealEstateForm.jsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesarparedes1" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">💬 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cesarparedes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesarparedes1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cesarparedes1" target="blank">Real Estate Calculator</a>
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3><br/>
