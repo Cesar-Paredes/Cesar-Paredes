@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in learning anything and everything that would make me a better developer.<br/>
-- 🌱 I’m currently learning and improving my skills in **Java, PHP, C#, SQL, Web services, server-side programming and also front-end development**, since my main long term goal is to be able to do full stack development.<br/>
+- 🌱 I’m currently improving my skills in **Java, PHP, C#, SQL, Web services, server-side programming and also front-end development**, since my main long term goal is to be able to do full stack development.<br/>
 - 💞️ I’m looking to collaborate mainly on back-end and as an alternative I'm also open for front-end development<br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
