@@ -33,7 +33,7 @@
 
 
 <h3 align="left">💻 Projects</h3>
-- Please check my projects below! 
+- Projects below! 
 
 
 <!---
