@@ -3,7 +3,7 @@
 
 
 - I’m interested in learning anything and everything that would make me a better developer.<br/>
-- I’m currently improving my skills in **Java, PHP, C#, SQL, Web services, server-side programming and also front-end**, my main long term goal is to be able to do full stack development.<br/>
+- I’m currently improving my skills in ** .NET - C#, ASP.NET, Azure, SQL, Web services, server-side programming and also front-end**, my main long term goal is to improve as a full stack developer.<br/>
 - I’m looking to collaborate mainly on back-end and as an alternative I'm also open for front-end development.<br/>
 <br/>
 
