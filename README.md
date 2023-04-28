@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm @Cesar-Paredes</h1>
-<h3 align="center">Passionate about programming and web development.🏻‍💻</h3>
+<h3 align="center">Passionate about programming and software engineering.🏻‍💻</h3>
 
 
 - I’m interested in learning anything and everything that would make me a better developer.<br/>
