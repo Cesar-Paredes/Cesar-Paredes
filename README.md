@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cesar-Paredes</h1>
+<h1 align="center">Hi, I'm Cesar Paredes</h1>
 <h3 align="center">"I am passionate about software engineering and love creating innovative solutions for complex problems."💻</h3>
 
 
