@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cesar Paredes</h1>
 <h3 align="center">"I am passionate about software engineering and love creating innovative solutions for complex problems."💻</h3>
 
-- I’m currently developing in React, Typescript, JavaScript, .NET - C#, MySQL, Redux toolkit, Relect library, Web services, server-side programming, and front-end. My main goal is to improve as a full-stack developer.<br/>
+- I’m currently developing in React, Typescript, JavaScript, .NET - C#, MySQL, Redux toolkit, Relect library, Web services, server-side programming, and front-end. My main goal is to create reliable systems with great user interfaces.<br/>
 - I’m looking to collaborate on back-end and front-end projects.<br/>
 <br/>
 
