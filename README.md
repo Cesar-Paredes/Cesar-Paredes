@@ -1,9 +1,21 @@
-<h1 align="center">Hi, I'm Cesar</h1>
-<h3 align="center">"I am passionate about software engineering and love creating innovative solutions for complex problems."💻</h3>
+Hi, I'm Cesar Paredes 
 
-- I’m currently developing in React, Typescript, JavaScript, .NET - C#, MySQL, Redux toolkit, Relect library, Web services, server-side programming, and front-end. My main goal is to create reliable systems with great user interfaces.<br/>
-- I’m looking to collaborate on back-end and front-end projects.<br/>
-<br/>
+**Founder of [Dark To Light Inc.](https://darktolight.io)** — Web Design & Digital Marketing Agency in Montreal.
+
+> **"Drive Sales. Not Just Traffic."**
+
+I help local service businesses across Greater Montreal turn their websites into **lead-generating machines**.
+
+### What I do:
+- Build high-converting **Next.js** websites and landing pages
+- Lead generation systems for service-based businesses
+- Meta, Instagram, Facebook & Google Ads (strategy, A/B testing & optimization)
+- Technical SEO, AEO (AI Engine Optimization) & GEO
+- Content creation, video editing, and marketing funnels
+
+Previously worked as a software engineer at CGI and Bell. Now running my own agency full-time while helping other entrepreneurs grow their businesses online.
+
+📍 Montreal, Quebec, Canada
 
 ++++++++++++++++++++++++++++++++
 
