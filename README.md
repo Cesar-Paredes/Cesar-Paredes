@@ -38,11 +38,4 @@ Previously worked as a software engineer at CGI and Bell. Now running my own age
 <br/>
 
 
-<h3 align="left">💻 Projects</h3>
-- Projects below! 
 
-
-<!---
-Cesar-Paredes/Cesar-Paredes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
